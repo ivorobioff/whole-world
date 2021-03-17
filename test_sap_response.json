@@ -1,0 +1,52 @@
+{
+    "records": [
+        {
+            "UPC": 111222333444,
+            "SKU": 30007130002,
+            "EAN": 8056376378320,
+            "SKU_attributes": {
+                "Color": "SL 283 SLIM-002",
+                "Brand": "SLP",
+                "Brand_descr": "Saint Laurent",
+                "Style_name": "SL 283 SLIM",
+                "Year": 2018,
+                "Season": "SS",
+                "Collection": "01",
+                "SKU_status": "S",
+                "Deletion_flag": "X",
+                "Exclusive_for": "DOS",
+                "Size": 50,
+                "Commodity_code": 90041091
+            },
+            "SKU_characteristics": {
+                "Front_main_mat_code": "ACE",
+                "Front_main_mat_descr": "ACETATE",
+                "Front_main_col_code": "99",
+                "Front_main_col_desc": "SPARK",
+                "Front_sec_col_code": "A",
+                "Front_sec_col_desc": "BROWN",
+                "Temple_main_mat_code": "ACE",
+                "Temple_main_mat_descr": "ACETATE",
+                "Temple_main_col_code": "1",
+                "Temple_main_col_descr": "HAVANA",
+                "Temple_sec_col_code": "A",
+                "Temple_sec_col_descr": "BROWN",
+                "Len_material_code": "NYL",
+                "Lens_material_descr": "NYLON",
+                "Lens_base_code": "S04",
+                "Lens_treatment_code": "D"
+            },
+            "SKU_Purchasing_inforecords": {
+                "Vendor_code": "0000100067"
+            },
+            "Bom_placement": [
+                {
+                    "Component_descr": "Lenses",
+                    "Supplier": "ZEISS",
+                    "Supplier_Code": "N7530",
+                    "Color": "Solid Grey"
+                }
+            ]
+        }
+    ]
+}
